@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:jnewbery/jnewbery.github.com.git
+	branch = master
