@@ -1,0 +1,32 @@
+baseurl = "https://johnnewbery.com/"
+languageCode = "en-us"
+title = "John Newbery"
+theme = "hugo-type-theme"
+# Posts per page
+paginate = 10
+themesDir = "themes"
+
+
+[params]
+	author = "John Newbery"
+	description = "Words written by John Newbery, mostly about Bitcoin"
+	# The keywords will be added as a meta tag. Delimit them with a comma.
+	keywords = "Bitcoin"
+	# Either show custom avatar on the top
+	# left by adding the filename in below
+	avatar = "img/avatar.jpg"
+
+	headerText = "I'm a contributor to Bitcoin Core. I also work on various other projects in the Bitcoin space.<br>This is my blog."
+	# To add a header background to the main site, save your image under static/img/.
+	# If now image path is provided, a orange background will be shown instead.
+	headerImage = ""
+	copyright = "Released under the MIT license<br>Powered by [Hugo](//gohugo.io/) with the [Type Theme](//github.com/digitalcraftsman/hugo-type-theme)"
+
+
+	[params.social]
+		# Insert your accout name and the icon will be shown in the right menu
+		rss = true
+		homepage = true
+		github = "jnewbery"
+		linkedin = "johnnewbery"
+		twitter = "jfnewbery"
