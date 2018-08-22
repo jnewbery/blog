@@ -14,5 +14,3 @@ Some projects I work on are:
 - [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 - [Bitcoin Optech](https://bitcoinops.org)
 - Chaincode's [Bitcoin](http://hackerresidency.com) and [Lightning Applications](http://lightningresidency.com) residency programs
-
-\- John Newbery

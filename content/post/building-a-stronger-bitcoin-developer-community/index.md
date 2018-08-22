@@ -1,8 +1,9 @@
 ---
 title: "Building a Stronger Bitcoin Developer Community"
 date: 2017-10-17T00:00:00-04:00
-draft: false
 ---
+
+_(originally posted at https://medium.com/@jfnewbery/)_
 
 <img align="middle" src="./barn-raising.jpeg" alt="barn raising">
 
