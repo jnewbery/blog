@@ -1,0 +1,21 @@
+<div class="posts">
+  {% for post in site.posts %}
+  {%- if post.category == page.category -%}
+    <div class="post-teaser">
+      <header>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title }}
+          </a>
+        </h3>
+        <p class="meta">
+          {{ post.date | date: "%B %-d, %Y" }}
+        </p>
+      </header>
+      <div class="excerpt">
+        {{ post.excerpt }}
+      </div>
+    </div>
+  {%- endif -%}
+  {% endfor %}
+</div>

@@ -1,0 +1,68 @@
+title: John Newbery's blog
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://johnnewbery.com"
+twitter_username: jfnewbery
+github_username:  jnewbery
+
+# THEME-SPECIFIC CONFIGURATION
+theme_settings:
+  # Meta
+  title: John Newbery
+  avatar: assets/img/avatar.jpg
+  favicon: assets/favicon.ico
+  description: "John Newbery's blog"
+
+  # Header and footer text
+  header_text: >
+     <p>I’m a Bitcoin protocol developer. I contribute to Bitcoin Core and other open source Bitcoin projects.</p>
+  header_text_feature_image:
+
+  # Icons
+  rss: true
+  github: jnewbery
+  linkedin: https://www.linkedin.com/in/johnnewbery/
+  stack_exchange: https://stackexchange.com/users/896579/jnewbery
+  twitter: jfnewbery
+
+  # Scripts
+  katex: true # Enable if using math markup
+  search: false # Enable the search feature
+
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  str_next_post: "Next post"
+  str_previous_post: "Previous post"
+  str_next_page: "Next"
+  str_previous_page: "Prev"
+  str_continue_reading: "Continue reading"
+  str_search_no_results: "No results found."
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+
+  # Post navigation
+  post_navigation: false
+
+# PAGINATION
+paginate: 5
+paginate_path: "blog/page:num"
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: :compressed
+plugins: [jekyll-paginate]
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+permalink: /:title/
