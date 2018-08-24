@@ -1,7 +1,6 @@
 ---
 title: "Contributing to Bitcoin Core, a Personal Account"
 date: 2017-08-11T00:00:00-04:00
-draft: true
 ---
 
 In January of this year, I moved to New York to take a job contributing full
@@ -18,8 +17,9 @@ real, and that somehow this is my living.
 
 But in more practical terms, what have I actually learned since I’ve been here?
 
-Start small
+#### Start small
 
+<img align="middle" src="./acorn.jpeg" alt="acorn" width=50%>
 
 I’m the first to admit that I’m not the best or most experienced programmer. I
 started my professional career as a software developer but very quickly moved
@@ -51,8 +51,9 @@ Here’s my first merged code commit to Bitcoin Core:
 https://github.com/bitcoin/bitcoin/pull/8829, adding extra testing for the
 bitcoin-tx utility. A modest contribution, but we all need to start somewhere!
 
-Hold yourself accountable
+#### Hold yourself accountable
 
+<img align="middle" src="./clock.jpeg" alt="clock" width=50%>
 
 As my experience of the code base has increased, so too has the surface over
 which I can work. Every day, the list of things that I think I could or should
@@ -80,8 +81,9 @@ hardware wallet integration in v0.16 or v0.17. Having a goal, sharing it with
 other people, and holding yourself accountable to it is a really useful
 exercise.
 
-Sharpen the tools
+#### Sharpen the tools
 
+<img align="middle" src="./tools.jpeg" alt="tools" width=50%>
 
 Always, always, always be sharpening your tools and adding new skills and
 techniques. When I landed this gig in October last year, I knew that my basic
@@ -103,8 +105,9 @@ The pace of technical innovation in Bitcoin is breakneck, so to be a useful
 contributor and to be able to keep up with the latest developments we all need
 to be constantly refreshing our skills and learning new concepts.
 
-Offer help and ask for help
+#### Offer help and ask for help
 
+<img align="middle" src="./help.jpeg" alt="help" width=50%>
 
 I’m not the best C++ programmer, but thanks to my time with Pro Git, I’m pretty
 handy with branches and commits. I’ve been able to help take load off
@@ -136,8 +139,9 @@ that they care deeply about the project. If you genuinely want to help, and are
 respectful of their time, then most will be more than happy to share expertise
 with you.
 
-Be a contributor, not a developer
+#### Be a contributor, not a developer
 
+<img align="middle" src="./castel.jpeg" alt="castel" width=50%>
 
 One part of being a useful contributor to an open source project is writing
 good code, but there are many more: understanding what other people want from
@@ -152,13 +156,13 @@ newcomer and haven’t built up a reputation in the project — try to make 
 for people to review and ACK your PRs and you’re more likely to get a good
 response.
 
-Interested?
+#### Interested?
 
 My list isn’t complete and is no way prescriptive. Open source is a broad
 church, and everyone contributes in their own way.
 
 If you want a more practical primer on how to get started on contributing to
-Bitcoin Core, Jimmy Song has written a superb introduction.
+Bitcoin Core, Jimmy Song has written a [superb introduction](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8).
 
 Please reach out to me if have any thoughts or suggestions of your own, or if
 you want help getting started. I’m always happy to help people get their first
