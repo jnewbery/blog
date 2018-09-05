@@ -3,6 +3,8 @@ title: "Contributing to Bitcoin Core, a Personal Account"
 date: 2017-08-11T00:00:00-04:00
 ---
 
+_originally posted at https://bitcointechtalk.com/_
+
 In January of this year, I moved to New York to take a job contributing full
 time to open source Bitcoin projects. These are some of my experiences in those
 first few months.

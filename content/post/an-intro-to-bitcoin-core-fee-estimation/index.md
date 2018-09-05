@@ -3,7 +3,7 @@ title: "An Introduction to Bitcoin Core Fee Estimation"
 date: 2017-09-12T00:00:00-04:00
 ---
 
-_(originally posted at https://bitcointechtalk.com/)_
+_originally posted at https://bitcointechtalk.com/_
 
 <img align="middle" src="./abacus.jpeg" alt="abacus">
 
