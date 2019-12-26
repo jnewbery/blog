@@ -1,6 +1,7 @@
 ---
 title: "What's New in Bitcoin Core V0.15 - Part 3"
 date: 2017-09-16T00:00:00-04:00
+summary: "What's new in Bitcoin Core part 3 of 5: replace-by-fee in the GUI."
 ---
 
 Yesterday, I wrote about [how fee estimation is better in
@@ -33,7 +34,7 @@ enough fee, then miners will be incentivized to include it in a block.
 [9592](https://github.com/bitcoin/bitcoin/pull/9592) and
 [9697](https://github.com/bitcoin/bitcoin/pull/9697))**
 
-<img align="middle" src="./hands_cash.jpeg" alt="hands_cash">
+<img src="./hands_cash.jpeg" class="center-img">
 
 Since v0.12, Bitcoin Core has supported ‘opt-in RBF’. This is where a
 transaction signals that it is replaceable and other nodes will allow RBF
@@ -50,3 +51,5 @@ The end result should be users not over-paying transaction fees. That’s good f
 the individual user and also for the fee market overall — if all users are able
 to pitch their fee rate more accurately, the block space will be allocated more
 efficiently to those who value it.
+
+_originally posted at https://bitcointechtalk.com/_

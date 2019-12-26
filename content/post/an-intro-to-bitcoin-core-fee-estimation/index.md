@@ -1,9 +1,8 @@
 ---
 title: "An Introduction to Bitcoin Core Fee Estimation"
 date: 2017-09-12T00:00:00-04:00
+summary: How Bitcoin Core estimates fee rates based on historical mempool and block data.
 ---
-
-_originally posted at https://bitcointechtalk.com/_
 
 <img align="middle" src="./abacus.jpeg" alt="abacus">
 
@@ -295,3 +294,5 @@ estimations in Bitcoin Core v0.15 builds on the same framework as the v0.14
 algorithm, but has many improvements to make it more robust in the case of
 changing circumstances and outlier events. I’ll describe what those changes are
 in a future blog post.
+
+_originally posted at https://bitcointechtalk.com/_

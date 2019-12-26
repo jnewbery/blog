@@ -1,9 +1,8 @@
 ---
 title: "Contributing to Bitcoin Core, a Personal Account"
 date: 2017-08-11T00:00:00-04:00
+summary: Lessons from my first six months of contributing to Bitcoin Core.
 ---
-
-_originally posted at https://bitcointechtalk.com/_
 
 In January of this year, I moved to New York to take a job contributing full
 time to open source Bitcoin projects. These are some of my experiences in those
@@ -21,7 +20,7 @@ But in more practical terms, what have I actually learned since I’ve been here
 
 #### Start small
 
-<img align="middle" src="./acorn.jpeg" alt="acorn" width=50%>
+<img src="./acorn.jpeg" class="center-img">
 
 I’m the first to admit that I’m not the best or most experienced programmer. I
 started my professional career as a software developer but very quickly moved
@@ -55,7 +54,7 @@ bitcoin-tx utility. A modest contribution, but we all need to start somewhere!
 
 #### Hold yourself accountable
 
-<img align="middle" src="./clock.jpeg" alt="clock" width=50%>
+<img src="./clock.jpeg" class="center-img">
 
 As my experience of the code base has increased, so too has the surface over
 which I can work. Every day, the list of things that I think I could or should
@@ -85,7 +84,7 @@ exercise.
 
 #### Sharpen the tools
 
-<img align="middle" src="./tools.jpeg" alt="tools" width=50%>
+<img src="./tools.jpeg" class="center-img">
 
 Always, always, always be sharpening your tools and adding new skills and
 techniques. When I landed this gig in October last year, I knew that my basic
@@ -109,7 +108,7 @@ to be constantly refreshing our skills and learning new concepts.
 
 #### Offer help and ask for help
 
-<img align="middle" src="./help.jpeg" alt="help" width=50%>
+<img src="./help.jpeg" class="center-img">
 
 I’m not the best C++ programmer, but thanks to my time with Pro Git, I’m pretty
 handy with branches and commits. I’ve been able to help take load off
@@ -143,7 +142,7 @@ with you.
 
 #### Be a contributor, not a developer
 
-<img align="middle" src="./castel.jpeg" alt="castel" width=50%>
+<img src="./castel.jpeg" class="center-img">
 
 One part of being a useful contributor to an open source project is writing
 good code, but there are many more: understanding what other people want from
@@ -169,3 +168,5 @@ Bitcoin Core, Jimmy Song has written a [superb introduction](https://bitcointech
 Please reach out to me if have any thoughts or suggestions of your own, or if
 you want help getting started. I’m always happy to help people get their first
 commit merged!
+
+_originally posted at https://bitcointechtalk.com/_

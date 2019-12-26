@@ -3,24 +3,21 @@
 	{{ range $paginator.Pages -}}
 	<div class="post-teaser">
 		<header>
-			<h1>
+			<h3>
 			<a class="post-link" href="{{ .Permalink }}">
 				{{ .Title }}
 			</a>
-			</h1>
+			</h3>
 			{{ partial "post-meta" . }}
 		</header>
 
 		<div class="excerpt">
+			<a class="post-link" href="{{ .Permalink }}">
 			{{ if isset .Params "description" | and (ne .Params.description "") -}}
 				{{ .Description | markdownify }}
 			{{- else -}}
 				{{ .Summary }}
 			{{- end }}
-
-			<br>
-			<a class="button" href="{{ .Permalink }}">
-				{{ .Site.Data.l10n.continueReading }}
 			</a>
 		</div>
 	</div>

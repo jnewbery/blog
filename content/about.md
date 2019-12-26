@@ -5,12 +5,15 @@ menu = "nav"
 disableComments = true
 +++
 
-### About me
+<img src="/img/avatar.jpg" class="center-img" style="max-width:300px">
 
-I spend most of my time writing code for Bitcoin Core or thinking about Bitcoin. I work at Chaincode Labs in New York, where I have a lot of freedom to work on projects that I think are important or interesting.
+I'm an open source Bitcoin developer.  I work at Chaincode Labs in New York,
+where I spend my time contributing to Bitcoin Core and other Bitcoin projects
+that I think are important or interesting.
 
-Some projects I work on are:
+Some projects I work on:
 
 - [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 - [Bitcoin Optech](https://bitcoinops.org)
-- Chaincode's [Bitcoin](http://hackerresidency.com) and [Lightning Applications](http://lightningresidency.com) residency programs
+- [Bitcoin Core PR Review Club](https://bitcoincore.reviews)
+- Chaincode's [Residency Programs](http://residency.chaincode.com)

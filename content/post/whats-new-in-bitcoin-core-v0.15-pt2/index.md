@@ -1,9 +1,8 @@
 ---
 title: "What's New in Bitcoin Core V0.15 - Part 2"
 date: 2017-09-15T00:00:00-04:00
+summary: "What's new in Bitcoin Core part 2 of 5: better fee estimation."
 ---
-
-_originally posted at https://bitcointechtalk.com/_
 
 This article continues [the
 series](https://johnnewbery.com/post/whats-new-in-bitcoin-core-v0.15-pt1/)
@@ -15,7 +14,7 @@ estimation.
 **Better Fee Estimation ([PR
 10199](https://github.com/bitcoin/bitcoin/pull/10199))**
 
-<img align="middle" src="./ledger.jpeg" alt="ledger">
+<img src="./ledger.jpeg" class="center-img">
 
 I recently [wrote about Bitcoin Core fee estimation in
 v0.14](https://johnnewbery.com/post/an-intro-to-bitcoin-core-fee-estimation/).
@@ -93,3 +92,5 @@ gist](https://gist.github.com/morcos/d3637f015bc4e607e1fd10d8351e9f41#proposed-c
 and the [Pull Request](https://github.com/bitcoin/bitcoin/pull/10199).
 
 *Thanks to Matt Corallo, Alex Morcos and Jimmy Song for input and feedback.*
+
+_originally posted at https://bitcointechtalk.com/_

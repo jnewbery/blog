@@ -1,9 +1,8 @@
 ---
 title: "What's New in Bitcoin Core V0.15 - Part 1"
 date: 2017-09-14T00:00:00-04:00
+summary: "What's new in Bitcoin Core part 1 of 5: per-output chainstate database."
 ---
-
-_originally posted at https://bitcointechtalk.com/_
 
 I’m very excited about the recent [Bitcoin Core v0.15
 release](https://github.com/bitcoin/bitcoin/releases/tag/v0.15.0). This is the first major
@@ -24,7 +23,7 @@ Bitcoin Core client performing much better.
 **Per-output chainstate db ([PR
 10195](https://github.com/bitcoin/bitcoin/pull/10195))**
 
-<img align="middle" src="./chain.jpeg" alt="chain">
+<img src="./chain.jpeg" class="center-img">
 
 Per-output chainstate db is a fantastic win in Initial Block Download time and
 general performance, as well as being a huge improvement in code simplicity. It
@@ -104,3 +103,5 @@ Pull Request](https://github.com/bitcoin/bitcoin/pull/10195):
 fresh node, you’ll catch up to the chain tip much more quickly.
 
 *Thanks to Pieter Wuille, Matt Corallo and Jimmy Song for input and feedback.*
+
+_originally posted at https://bitcointechtalk.com/_

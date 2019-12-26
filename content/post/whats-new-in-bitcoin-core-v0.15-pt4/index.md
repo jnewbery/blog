@@ -1,9 +1,8 @@
 ---
 title: "What's New in Bitcoin Core V0.15 - Part 4"
 date: 2017-09-17T00:00:00-04:00
+summary: "What's new in Bitcoin Core part 4 of 5: multi-wallet support."
 ---
-
-_originally posted at https://bitcointechtalk.com/_
 
 In this series, I’ve already covered one performance improvement ([per-output
 chainstate
@@ -17,7 +16,7 @@ Today I’ll talk about another user feature, multi-wallet.
 **Multi-wallet Support ([PR
 8694](https://github.com/bitcoin/bitcoin/pull/8694))**
 
-![](https://cdn-images-1.medium.com/max/1600/0*6i3Y8JSO-aRsq2Dn.)
+<img src="./multiwallet.jpeg" class="center-img">
 
 Multi-wallet is a feature that’s long been requested by users, and has now been
 implemented in Bitcoin Core. Users are now able to load more than one wallet
@@ -53,3 +52,5 @@ allow wallets to be dynamically loaded and unloaded during runtime, so it will
 no longer be necessary to stop and restart the node in order to load a new
 wallet. Loading and unloading a wallet should be as simple as opening a new
 document in a word processor.
+
+_originally posted at https://bitcointechtalk.com/_

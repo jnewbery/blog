@@ -1,11 +1,10 @@
 ---
 title: "Building a Stronger Bitcoin Developer Community"
 date: 2017-10-17T00:00:00-04:00
+summary: Announcing the second Chaincode Residency program.
 ---
 
-_originally posted at https://medium.com/@jfnewbery/_
-
-<img align="middle" src="./barn-raising.jpeg" alt="barn raising">
+<img class="center-img" src="./barn-raising.jpeg" alt="barn raising">
 
 In Summer 2016, I’d been interested in Bitcoin for a little over a year. I’d
 been slowly becoming more and more enchanted by this strange and wonderful
@@ -81,6 +80,8 @@ If either of these programs sound interesting to you, please check out the
 [Hacker Residency website][residency website] for full details and consider
 applying. If you have any questions, comments or just want to talk about the
 Bitcoin community, please reach out to me on twitter [@jfnewbery][twitter].
+
+_originally posted at https://medium.com/@jfnewbery/_
 
 [hacker residency 1 announcement]: http://bluematt.bitcoin.ninja/2016/08/08/chaincode/
 [first contribution]: https://github.com/bitcoin/bitcoin/pull/8747

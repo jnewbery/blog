@@ -15,7 +15,7 @@ I covered the following topics:
 - [transcript][signatures transcript]
 - [video][signatures vid]
 
-Erratum:
+Corrections:
 
 - The slide on Cyclic Groups said "The integers modulo p for any number p is a cyclic group". It should say "The integers modulo p for any *prime* p is a cyclic group". (If p is composite, ie p = ab, then the order of a in G is b, so G is not cyclic).
 - during the talk, I was asked _“how does the verifier know `K` in the non-interactive schnorr identification protocol?”_ I said that `K` can be provided by the prover. That’s wrong. In fact, the verifier calculates `K` himself and then checks that `e` is the hash of `K`. The verification step is checking that `e` does in fact commit to `K`.

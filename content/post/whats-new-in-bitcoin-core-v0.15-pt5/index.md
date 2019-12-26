@@ -1,9 +1,8 @@
 ---
 title: "What's New in Bitcoin Core V0.15 - Part 5"
 date: 2017-09-18T00:00:00-04:00
+summary: "What's new in Bitcoin Core part 5 of 5: script caching."
 ---
-
-_originally posted at https://bitcointechtalk.com/_
 
 This is the final article in [this
 series](https://johnnewbery.com/post/whats-new-in-bitcoin-core-v0.15-pt1/)
@@ -11,8 +10,8 @@ about features and improvements in Bitcoin Core v0.15. Today I’ll talk about a
 small implementation change by Matt Corallo that gives a huge boost in
 performance for nodes that are in sync and keeping up with the blockchain.
 
-<img align="middle" src="./fast.jpeg" alt="fast" width=50%>
-*Block validation: now up to 50% faster!*
+<img src="./fast.jpeg" class="center-img">
+<p style="text-align:center">*Block validation: now up to 50% faster!*</a>
 
 **Script Caching ([PR 10192](https://github.com/bitcoin/bitcoin/pull/10192))**
 
@@ -103,3 +102,5 @@ release notes](https://bitcoincore.org/en/releases/0.15.0/) if you want a
 complete listing.
 
 *Thanks to Matt Corallo and Jimmy Song for feedback and input.*
+
+_originally posted at https://bitcointechtalk.com/_

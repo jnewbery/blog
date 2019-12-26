@@ -1,15 +1,14 @@
 ---
 title: "What Did Bitcoin Core Contributors Ever Do for Us?"
 date: 2017-07-21T00:00:00-04:00
+summary: A short summary of work that Bitcoin Core developers have contributed to the project.
 ---
-
-_originally posted at https://medium.com/@jfnewbery/_
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">When you fire core, I presume you&#39;re also going to ...</p>&mdash; John Newbery (@jfnewbery) <a href="https://twitter.com/jfnewbery/status/888506387030003712?ref_src=twsrc%5Etfw">July 21, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 This afternoon, I tweeted a response to the strange suggestion that we
-**fire core** I’ve ignored the fact that Bitcoin Core isn’t a person or an
+**fire core**. I’ve ignored the fact that Bitcoin Core isn’t a person or an
 organization (in the traditional sense), and that everyone is perfectly free to
 run their own re-implementation of Bitcoin, but instead focused on a few of the
 things you’d need to do if you were serious about rejecting the work of the
@@ -214,3 +213,5 @@ more who have contributed code, review, testing time, documentation and much
 more to these and other initiatives. If I’ve made any egregious omissions,
 please accept my apologies and message me on twitter so I can set the record
 straight!
+
+_originally posted at https://medium.com/@jfnewbery/_
