@@ -2,8 +2,7 @@ baseurl = "https://johnnewbery.com/"
 languageCode = "en-us"
 title = "John Newbery"
 theme = "hugo-type-theme"
-# Posts per page
-paginate = 10
+paginate = 1000
 themesDir = "themes"
 
 [params]
