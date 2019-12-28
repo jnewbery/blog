@@ -1,5 +1,5 @@
 ---
-title: "BC2 - Tokyo"
+title: "BC2 2017 - Tokyo"
 date: 2017-07-31T00:00:00-04:00
 ---
 
