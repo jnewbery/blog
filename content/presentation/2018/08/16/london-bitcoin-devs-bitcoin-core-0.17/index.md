@@ -1,5 +1,5 @@
 ---
-title: "London Bitcoin Devs - Bitcoin Core v0.17"
+title: "Bitcoin Core v0.17 - London Bitcoin Devs"
 date: 2018-08-16T00:00:00-04:00
 ---
 
