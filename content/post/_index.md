@@ -1,6 +1,6 @@
 +++
 date = "2018-08-22"
-title = "Posts"
+title = "Blog"
 menu = "nav"
 layout = "list"
 +++

@@ -24,7 +24,6 @@ themesDir = "themes"
 	[params.social]
 		# Insert your accout name and the icon will be shown in the right menu
 		rss = true
-		homepage = true
 		github = "jnewbery"
 		linkedin = "johnnewbery"
 		twitter = "jfnewbery"
