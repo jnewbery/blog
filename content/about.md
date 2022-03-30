@@ -7,7 +7,7 @@ disableComments = true
 
 <img src="/img/avatar.jpg" class="center-img" style="max-width:300px">
 
-I'm an open source Bitcoin developer. I work at Chaincode Labs in New York,
+I'm a Bitcoin protocl developer. I work at Chaincode Labs in New York,
 where I spend my time contributing to open source Bitcoin projects. I want to
 help make Bitcoin the best kind of money the world has ever had - secure,
 private, fungible and scalable. I also care about spreading knowledge about
@@ -31,7 +31,6 @@ I started co-hosting the New York [BitDevs socratic meetups][] in 2018.
 
 In 2019, I started the [Bitcoin Core PR Review Club][] to help newer
 contributors learn about the Bitcoin Core review process.
-
 
 [Bitcoin Core]:https://github.com/bitcoin/bitcoin
 [first Chaincode residency]:https://bluematt.bitcoin.ninja/2016/08/08/chaincode/
