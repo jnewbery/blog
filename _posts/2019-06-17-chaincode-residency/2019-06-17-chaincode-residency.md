@@ -1,43 +1,28 @@
 ---
 layout: post
-title: "Bitcoin Edge Dev++ - Stanford"
+title: "Chaincode Summer Residency 2019"
 category: talk
-excerpt: A series of educational talks at the Bitcoin Edge Dev++ event at Stanford.
+excerpt: Educational talks from the Chaincode Summer Residency 2019.
 ---
 
-I gave a series of educational talks at the
-[Bitcoin Edge Dev++ event][devplusplus] at Stanford, immediately preceeding the
-[Scaling Bitcoin Conference][scaling].
+<img class="center-img" src="./residency2019.png" alt="Residency 2019">
 
-I covered the following topics:
+In 2019, we hosted the third [Chaincode
+Residency](https://residency.chaincode.com/), our most ambitious to date. I
+co-organized and co-hosted the program, and also gave a series of technical
+talks:
 
-#### Blocks and the Blockchain
+#### Security Models
 
-- [slides][blocks slides]
-- [video][blocks vid]
+- Videos
+  - [Security model proposals](https://www.youtube.com/watch?v=6gGcS4N5Rg4&list=PLpLH33TRghT0z4nnoJx6646nfsMFvnVwF&index=4)
+  - [Alternative UTXO set proposals](https://www.youtube.com/watch?v=F3BCP0wiYOw&list=PLpLH33TRghT0z4nnoJx6646nfsMFvnVwF&index=5)
+- [slides](./security-slides.pdf)
+- [notes](./security-notes.pdf)
 
-#### The Peer-to-peer network
+#### Wallet Development
 
-- [slides][p2p slides]
-- [video][p2p vid]
+- [video](https://www.youtube.com/watch?v=j0V8elTzYAA&list=PLpLH33TRghT0z4nnoJx6646nfsMFvnVwF&index=8)
+- [slides](./wallet-slides.pdf)
+- [notes](./wallet-notes.pdf)
 
-#### The mempool
-
-- [slides][mempool slides]
-- [video][mempool vid]
-
-#### HD Wallets
-
-- [slides][hdwallet slides]
-- [video][hdwallet vid]
-
-[devplusplus]: https://stanford-devplusplus-2017.bitcoinedge.org/
-[scaling]: https://scalingbitcoin.org/
-[blocks slides]: ./blocks.pdf
-[blocks vid]: https://youtu.be/5cI8TtQk39w
-[p2p slides]: ./p2p.pdf
-[p2p vid]: https://youtu.be/eVerdR2hOMw
-[mempool slides]: ./mempool.pdf
-[mempool vid]: https://youtu.be/eVerdR2hOMw?t=1916
-[hdwallet slides]: ./hdwallets.pdf
-[hdwallet vid]: https://youtu.be/mhgLspKdQmg
