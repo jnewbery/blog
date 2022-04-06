@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "CopperCast"
-date: 2021-07-22
 category: talk
 excerpt: Appearance on CopperCast discussing Bitcoin open source funding.
 ---

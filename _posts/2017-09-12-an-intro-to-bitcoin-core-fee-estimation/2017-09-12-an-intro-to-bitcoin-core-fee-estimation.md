@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "An Introduction to Bitcoin Core Fee Estimation"
-date: 2017-09-12
 category: blog
 excerpt: How Bitcoin Core estimates fee rates based on historical mempool and block data.
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Building a Stronger Bitcoin Developer Community"
-date: 2017-10-17T00:00:00-04:00
 category: blog
 excerpt: Announcing the second Chaincode Residency program.
 ---
