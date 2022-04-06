@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "What's New in Bitcoin Core V0.15 - Part 5"
-date: 2017-09-18
 category: blog
 excerpt: "What's new in Bitcoin Core: script caching."
 ---

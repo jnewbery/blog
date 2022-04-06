@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Bitcoin Core v0.17 - London Bitcoin Devs"
-date: 2018-08-16T00:00:00-04:00
 category: talk
 excerpt: A presentation at the London Bitcoin Devs meetup group.
 ---

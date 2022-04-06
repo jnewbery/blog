@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Contributing to Bitcoin Core, a Personal Account"
-date: 2017-08-11T00:00:00-04:00
 category: blog
 excerpt: Lessons from my first six months of contributing to Bitcoin Core.
 ---

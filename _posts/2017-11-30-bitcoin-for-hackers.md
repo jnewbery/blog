@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Bitcoin for Hackers - Recurse Center, New York"
-date: 2017-11-30T00:00:00-04:00
 category: talk
 excerpt: A talk at the Recurse Center in New York titled "Bitcoin for Hackers".
 ---

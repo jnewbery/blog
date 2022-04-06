@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Crypto News Network - Perspective"
-date: 2018-08-21
 category: talk
 excerpt: A chat with Vortex about Bitcoin Optech.
 ---
