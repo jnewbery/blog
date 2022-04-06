@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "What Did Bitcoin Core Contributors Ever Do for Us?"
-date: 2017-07-21T00:00:00-04:00
 category: blog
 excerpt: A short summary of work that Bitcoin Core developers have contributed to the project.
 ---

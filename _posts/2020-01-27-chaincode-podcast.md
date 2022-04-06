@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The Chaincode Podcast"
-date: 2020-01-27
 category: talk
 excerpt: A podcast about Bitcoin protocol development featuring interviews with the most influential Bitcoin engineers.
 ---

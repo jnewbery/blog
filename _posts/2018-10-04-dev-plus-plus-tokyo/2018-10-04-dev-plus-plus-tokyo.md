@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Bitcoin Edge Dev++ - Tokyo"
-date: 2018-10-04T00:00:00-04:00
 category: talk
 excerpt: Two educational talks at the second iteration of Bitcoin Edge Dev++ at Keio university in Tokyo.
 ---

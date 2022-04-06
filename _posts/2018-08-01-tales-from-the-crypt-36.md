@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Tales From The Crypt #36"
-date: 2018-08-01
 category: talk
 excerpt: Another podcast recording with Marty Bent about Bitcoin.
 ---

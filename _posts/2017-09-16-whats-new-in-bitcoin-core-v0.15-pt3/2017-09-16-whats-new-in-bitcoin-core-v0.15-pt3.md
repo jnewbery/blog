@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "What's New in Bitcoin Core V0.15 - Part 3"
-date: 2017-09-16T00:00:00-04:00
 category: blog
 excerpt: "What's new in Bitcoin Core: replace-by-fee in the GUI."
 ---

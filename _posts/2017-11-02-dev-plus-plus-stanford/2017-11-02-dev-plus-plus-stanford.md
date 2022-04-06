@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Bitcoin Edge Dev++ - Stanford"
-date: 2017-11-02T00:00:00-04:00
 category: talk
 excerpt: A series of educational talks at the Bitcoin Edge Dev++ event at Stanford.
 ---

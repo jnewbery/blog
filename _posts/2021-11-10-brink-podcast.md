@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The Brink Podcast"
-date: 2021-11-10
 category: talk
 excerpt: A podcast about Bitcoin protocol development.
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Tales From The Crypt #5"
-date: 2017-09-17
 category: talk
 excerpt: A podcast recording with Marty Bent about all things Bitcoin Core.
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Optech Launch Announcement - Distributed 2018"
-date: 2018-07-20T00:00:00-04:00
 category: talk
 excerpt: Announcing the launch of Optech at Distributed 2018.
 ---

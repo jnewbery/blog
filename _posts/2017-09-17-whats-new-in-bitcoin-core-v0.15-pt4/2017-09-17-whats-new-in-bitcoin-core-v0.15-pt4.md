@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "What's New in Bitcoin Core V0.15 - Part 4"
-date: 2017-09-17
 category: blog
 excerpt: "What's new in Bitcoin Core: multi-wallet support."
 ---

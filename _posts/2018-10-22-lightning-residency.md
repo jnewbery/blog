@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Lightning Applications Residency"
-date: 2018-10-22
 category: talk
 excerpt: A residency program for developing Lightning Network applications.
 ---

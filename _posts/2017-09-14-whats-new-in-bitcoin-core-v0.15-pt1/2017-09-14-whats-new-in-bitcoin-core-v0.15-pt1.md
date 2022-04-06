@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "What's New in Bitcoin Core V0.15 - Part 1"
-date: 2017-09-14T00:00:00-04:00
 category: blog
 excerpt: "What's new in Bitcoin Core: per-output chainstate database."
 ---
