@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bitcoin Edge Dev++ - Tokyo"
+title: "Bitcoin Edge Dev++ Tokyo - Digital Signatures and Script"
 category: talk
 excerpt: Two educational talks at the second iteration of Bitcoin Edge Dev++ at Keio university in Tokyo.
 ---

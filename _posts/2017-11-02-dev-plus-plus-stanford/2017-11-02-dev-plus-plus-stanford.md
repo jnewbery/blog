@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bitcoin Edge Dev++ - Stanford"
+title: "Bitcoin Edge Dev++ Stanford - Blocks, Blockchain, P2P, Mempool and HD Wallets"
 category: talk
 excerpt: A series of educational talks at the Bitcoin Edge Dev++ event at Stanford.
 ---
