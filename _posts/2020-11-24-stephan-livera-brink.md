@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Stephan Livera Podcast - Brink"
+title: "The Stephan Livera Podcast - Announcing Brink"
 category: talk
 excerpt: A podcast episode with Stephan Livera about establishing Brink.
 ---

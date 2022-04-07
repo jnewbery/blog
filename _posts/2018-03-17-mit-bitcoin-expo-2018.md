@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Scalability Panel - MIT Bitcoin Expo 2018"
+title: "MIT Bitcoin Expo 2018 - Scalability Panel"
 category: talk
 excerpt: A panel at the 2017 MIT Bitcoin Expo with Cory Fields and Andrew Poelstra.
 ---

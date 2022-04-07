@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIT Bitcoin Expo 2021 Developer Panel"
+title: "MIT Bitcoin Expo 2021 - Developer Panel"
 category: talk
 excerpt: A developer panel at the 2021 MIT Bitcoin Expo with Pieter Wuille and Gloria Zhao.
 ---

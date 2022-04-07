@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "World Crypto Network with Max Hillebrand"
+title: "World Crypto Network - Onboarding Bitcoin Developers"
 category: talk
 excerpt: A chat with Max Hillebrand about the Chaincode Residency.
 ---

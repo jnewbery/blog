@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bitcoin for Hackers - Recurse Center"
+title: "Recurse Center - Bitcoin for Hackers"
 category: talk
 excerpt: A talk at the Recurse Center in New York titled "Bitcoin for Hackers".
 ---
