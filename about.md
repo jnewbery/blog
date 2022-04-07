@@ -6,19 +6,32 @@ title: About
 
 <img src="/assets/img/avatar.jpg" class="center-img" style="max-width:300px">
 
-I'm a Bitcoin protocol developer. I work at Chaincode Labs in New York,
-where I spend my time contributing to open source Bitcoin projects. I want to
-help make Bitcoin the best kind of money the world has ever had - secure,
-private, fungible and scalable. I also care about spreading knowledge about
-Bitcoin and Bitcoin development, and helping onboard new contributors to the
-project.
+Hi. I'm John. I'm a software developer/manager and company founder/director
+with over 12 years experience working on protocol development, peer to peer
+networks, and open source projects.
 
-I started contributing to [Bitcoin Core][] in late 2016, when I attended the
-[first Chaincode residency][]. I've contributed code and review to most parts
-of the codebase including validation, networking, wallet, GUI and test
-framework.
+In 2020, I established [Brink](https://brink.dev) to solve three problems:
 
-In 2018, I organised the second [Chaincode residency][] and helped organize the
+- Making sure that established protocol developers had sustainable funding and
+  could focus 100% of their energy on engineering work instead of worrying
+  about fundraising.
+
+- Ensuring that donors funds were effectively used. Sourcing and funding
+  extremely talented engineers and providing transparency about how
+  the funding was being used.
+
+- Providing mentoring and coaching for exceptionally talented but less
+  experienced protocol developers.
+
+Brink's mission was to support Bitcoin development by supporting Bitcoin
+developers. Whilst I was Executive Director, we raised $4 million and funded 7
+open source developers.
+
+Prior to founding Brink, I was at Chaincode Labs in New York, where I spent my
+time contributing to [Bitcoin Core][] and running various education and
+mentoring projects.
+
+In 2018, I organised the second [Chaincode Residency][] and 
 [Chaincode Lightning Apps Residency][], and in 2019 I helped run the fourth
 Chaincode residency.
 
@@ -26,7 +39,8 @@ I started [Bitcoin Optech][] in 2018 to help Bitcoin businesses adopt scaling
 technologies and improve communication between the Bitcoin open source
 community and businesses using Bitcoin.
 
-I started co-hosting the New York [BitDevs socratic meetups][] in 2018.
+I co-organized and co-hosting the New York [BitDevs Socratic Meetups][] from
+2018 to 2020.
 
 In 2019, I started the [Bitcoin Core PR Review Club][] to help newer
 contributors learn about the Bitcoin Core review process.
