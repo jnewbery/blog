@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On The Brink - Funding Bitcoin Development"
+title: "On The Brink Podcast - Funding Bitcoin Development"
 category: talk
 excerpt: A discussion with Nic Carter about Brink and funding open source development.
 ---

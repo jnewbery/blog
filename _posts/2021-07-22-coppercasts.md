@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CopperCast"
+title: "CopperCast - Open Source Bitcoin Funding"
 category: talk
 excerpt: Appearance on CopperCast discussing Bitcoin open source funding.
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tales From The Crypt #5"
+title: "Tales From The Crypt #5 - Bitcoin and the Bitcoin Core process"
 category: talk
 excerpt: A podcast recording with Marty Bent about all things Bitcoin Core.
 ---

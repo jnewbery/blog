@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bitcoin Core v0.17 - London Bitcoin Devs"
+title: "London Bitcoin Devs - Bitcoin Core 0.17"
 category: talk
 excerpt: A presentation at the London Bitcoin Devs meetup group.
 ---

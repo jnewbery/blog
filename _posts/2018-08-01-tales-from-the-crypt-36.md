@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tales From The Crypt #36"
+title: "Tales From The Crypt #36 - Optech, Taproot and Lightning"
 category: talk
 excerpt: Another podcast recording with Marty Bent about Bitcoin.
 ---

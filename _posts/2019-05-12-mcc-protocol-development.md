@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Protocol Development Panel - Magical Crypto Conference 2019"
+title: "Magical Crypto Conference 2019 - Protocol Development Panel"
 category: talk
 excerpt: A panel discussing Bitcoin Protocol Development with Eric Lombrozo, Matt Corallo and Luke Dashjr.
 ---
