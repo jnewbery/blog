@@ -5,7 +5,7 @@ category: blog
 excerpt: Chaincode is proud to announce a Lightning Applications Residency program.
 ---
 Chaincode is proud to announce a [Lightning applications residency
-program](https://http://lightningresidency.com/), taking place in New York, Oct
+program](https://lightningresidency.com/), taking place in New York, Oct
 22–26 2018!  We’ve already hosted two residency programs, in
 [2016](http://bluematt.bitcoin.ninja/2016/08/08/chaincode/) and
 [2018](https://hackerresidency.com/) . Those were focused on the Bitcoin
