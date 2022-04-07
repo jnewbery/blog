@@ -2,7 +2,7 @@
 layout: post
 title: "What Bitcoin Did - Building a Bitcoin Developer Community"
 category: talk
-excerpt: I spoke to Peter McCormack about Brink.
+excerpt: An interview with Peter McCormack about Brink.
 ---
 
 In [this
