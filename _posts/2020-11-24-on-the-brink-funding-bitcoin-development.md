@@ -2,7 +2,7 @@
 layout: post
 title: "On The Brink - Funding Bitcoin Development"
 category: talk
-excerpt: I spoke to Nic Carter about Brink and funding open source development.
+excerpt: A discussion with Nic Carter about Brink and funding open source development.
 ---
 
 In [this interview](https://onthebrink-podcast.com/brink/), we talked about:

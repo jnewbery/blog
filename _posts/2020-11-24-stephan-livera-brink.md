@@ -2,7 +2,7 @@
 layout: post
 title: "Stephan Livera - Brink"
 category: talk
-excerpt: I spoke to Stephan Livera about establishing Brink.
+excerpt: A podcast episode with Stephan Livera about establishing Brink.
 ---
 
 In [this interview](https://stephanlivera.com/episode/229/), I talked to Stephan

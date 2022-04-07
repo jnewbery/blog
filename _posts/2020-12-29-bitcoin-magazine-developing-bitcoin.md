@@ -2,7 +2,7 @@
 layout: post
 title: "Bitcoin Magazine - Developing Bitcoin"
 category: talk
-excerpt: An interview Christian Keroles about Bitcoin open source development.
+excerpt: An interview with Christian Keroles about Bitcoin open source development.
 ---
 
 In [this
