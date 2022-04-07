@@ -30,6 +30,19 @@ header {
     margin: 0;
   }
 }
+.index-title {
+  header {
+    text-align: center;
+  }
+}
+.index-posts {
+  .post-link {
+    font-weight: bold;
+    font-family: $font-family-headings;
+    color: $text-color;
+  }
+}
+
 .meta {
   color: rgba($text-color, .5);
   font-size: 0.9em;

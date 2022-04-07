@@ -1,20 +1,12 @@
-<div class="posts">
+<div class="index-posts">
   {% for post in site.posts %}
   {%- if post.category == page.category -%}
     <div class="post-teaser">
-      <header>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title }}
-          </a>
-        </h3>
-        <p class="meta">
-          {{ post.date | date: "%B %-d, %Y" }}
-        </p>
-      </header>
-      <div class="excerpt">
-        {{ post.excerpt }}
-      </div>
+      <p>
+        <span class="meta">{{ post.date | date: "%Y-%d-%m" }}</span>
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <!-- <span class="excerpt">{{ post.excerpt }}</span> -->
+      </p>
     </div>
   {%- endif -%}
   {% endfor %}
