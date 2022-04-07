@@ -5,7 +5,7 @@ category: talk
 excerpt: I spoke to Peter McCormack about Bitcoin Development.
 ---
 
-In this interview, I explained to Peteer what working on the Bitcoin
+In this interview, I explained to Peter what working on the Bitcoin
 protocol is like, the risks of a reducing block subsidy for
 miners, and privacy and development on the Lightning network.
 
