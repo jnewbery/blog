@@ -18,7 +18,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>I’m a Bitcoin protocol developer. I contribute to Bitcoin Core and other open source Bitcoin projects.</p>
+     <p>Contributing to Bitcoin Core and other open source projects.</p>
   header_text_feature_image:
 
   # Icons
