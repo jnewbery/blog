@@ -13,7 +13,7 @@ theme_settings:
   # Meta
   title: John Newbery
   avatar: assets/img/avatar.jpg
-  favicon: assets/favicon.ico
+  favicon: assets/img/favicon.jpg
   description: "John Newbery's blog"
 
   # Header and footer text
