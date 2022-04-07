@@ -23,7 +23,7 @@ In 2020, I established [Brink](https://brink.dev) to solve three problems:
 - Providing mentoring and coaching for exceptionally talented but less
   experienced protocol developers.
 
-Brink's mission was to support Bitcoin development by supporting Bitcoin
+Brink's mission is to support Bitcoin development by supporting Bitcoin
 developers. Whilst I was Executive Director, we raised $4 million and funded 7
 open source developers.
 
