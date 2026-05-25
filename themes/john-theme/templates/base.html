@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <title>{% block title %}{% if article is defined %}{{ article.title }} | {% elif page is defined and page.title %}{{ page.title }} | {% endif %}{{ SITE_TITLE }}{% endblock %}</title>
+    <meta name="description"
+      content="{% block description %}{% if article is defined and article.summary %}{{ article.summary | striptags | truncate(160) }}{% elif page is defined and page.summary %}{{ page.summary | striptags | truncate(160) }}{% else %}{{ SITENAME }}{% endif %}{% endblock %}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/main.css">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="{{ SITEURL }}/{{ FAVICON }}" type="image/x-icon">
+
+    <!-- Canonical -->
+    <link rel="canonical" href="{{ SITEURL }}/{% block canonical %}{% endblock %}">
+
+    <!-- RSS -->
+    {% if FEED_ALL_ATOM %}
+    <link rel="alternate" type="application/atom+xml" title="{{ SITE_TITLE }}"
+      href="{{ SITEURL }}/{{ FEED_ALL_ATOM }}" />
+    {% endif %}
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+      integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+
+    <!-- Google Fonts -->
+    {% if GOOGLE_FONTS %}
+    <link href="//fonts.googleapis.com/css?family={{ GOOGLE_FONTS }}" rel="stylesheet" type="text/css">
+    {% endif %}
+
+    {% block extra_head %}{% endblock %}
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="branding">
+        <a href="{{ SITEURL }}/">
+          <img class="avatar" src="{{ SITEURL }}/{{ AVATAR }}" alt="">
+        </a>
+        <h1 class="site-title">
+          <a href="{{ SITEURL }}/">{{ SITE_TITLE }}</a>
+        </h1>
+      </div>
+      <nav class="site-nav">
+        <ul>
+          {% for title, url in MENUITEMS %}
+          <li>
+            <a class="page-link" href="{{ url }}">{{ title }}</a>
+          </li>
+          {% endfor %}
+          <!-- Social icons -->
+          {% if FEED_ALL_ATOM %}
+          <li>
+            <a href="{{ SITEURL }}/{{ FEED_ALL_ATOM }}" title="Follow RSS feed">
+              <i class="fas fa-fw fa-rss"></i>
+            </a>
+          </li>
+          {% endif %}
+          {% if GITHUB_USER %}
+          <li>
+            <a href="https://github.com/{{ GITHUB_USER }}" title="Follow on GitHub">
+              <i class="fab fa-fw fa-github"></i>
+            </a>
+          </li>
+          {% endif %}
+          {% if LINKEDIN_URL %}
+          <li>
+            <a href="{{ LINKEDIN_URL }}" title="Follow on LinkedIn">
+              <i class="fab fa-fw fa-linkedin"></i>
+            </a>
+          </li>
+          {% endif %}
+          {% if TWITTER_USER %}
+          <li>
+            <a href="https://twitter.com/{{ TWITTER_USER }}" title="Follow on Twitter">
+              <i class="fab fa-fw fa-twitter"></i>
+            </a>
+          </li>
+          {% endif %}
+        </ul>
+      </nav>
+    </header>
+    <div class="content">
+      {% block content %}{% endblock %}
+    </div>
+    {% block footer %}{% endblock %}
+  </body>
+</html>

@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="home">
+  {% if HEADER_TEXT %}
+  <div class="call-out">
+    {{ HEADER_TEXT }}
+  </div>
+  {% endif %}
+
+  <div class="posts">
+    {% for article in articles %}
+    {% if article.category.slug == 'blog' %}
+    <div class="post-teaser">
+      <header>
+        <h3>
+          <a class="post-link" href="{{ SITEURL }}/{{ article.url }}">
+            {{ article.title }}
+          </a>
+        </h3>
+        <p class="meta">
+          {{ article.date.strftime('%B %-d, %Y') }}
+        </p>
+      </header>
+      {% if article.summary %}
+      <div class="excerpt">
+        {{ article.summary }}
+      </div>
+      {% endif %}
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
+</div>
+{% endblock %}

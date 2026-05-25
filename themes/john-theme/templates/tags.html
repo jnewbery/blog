@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block title %}Tags | {{ SITE_TITLE }}{% endblock %}
+
+{% block content %}
+<article>
+  <header>
+    <h1 class="title">Tags</h1>
+  </header>
+  {% for tag, articles in tags | sort(attribute='0.name') %}
+  <h2 id="{{ tag.slug }}" class="tag-title">#{{ tag }}</h2>
+  {% for article in articles %}
+  <div class="tagged-post">
+    <h3 class="title">
+      <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+    </h3>
+    <div class="meta">{{ article.date.strftime('%B %-d, %Y') }}</div>
+  </div>
+  {% endfor %}
+  {% endfor %}
+</article>
+{% endblock %}

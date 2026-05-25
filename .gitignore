@@ -4,6 +4,11 @@ _site
 .jekyll-metadata
 vendor
 
+# Pelican output
+output/
+__pycache__/
+*.pyc
+
 *.swp
 .DS_Store
 .DS_Store?
