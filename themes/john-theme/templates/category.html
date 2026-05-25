@@ -1,11 +1,11 @@
 {% extends "base.html" %}
 
-{% block title %}{{ category }} | {{ SITE_TITLE }}{% endblock %}
+{% block title %}{% if category.slug == 'blog' %}Blog{% elif category.slug == 'talk' %}Talks{% else %}{{ category }}{% endif %} | {{ SITE_TITLE }}{% endblock %}
 
 {% block content %}
 <article>
   <header>
-    <h1 class="title">{{ category }}</h1>
+    <h1 class="title">{% if category.slug == 'blog' %}Blog{% elif category.slug == 'talk' %}Talks{% else %}{{ category }}{% endif %}</h1>
     {% if category.slug == 'blog' %}
     <p>Writings about Bitcoin and other technology.</p>
     {% elif category.slug == 'talk' %}

@@ -26,9 +26,9 @@ KATEX = True
 
 # Navigation
 MENUITEMS = [
+    ("About", "/about/"),
     ("Blog", "/blog/"),
     ("Talks", "/talk/"),
-    ("About", "/about/"),
 ]
 
 # URL structure matching Jekyll's /:title/ format

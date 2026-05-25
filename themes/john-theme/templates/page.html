@@ -19,6 +19,7 @@
   <header {% if page.feature_img %}style="background-image: url('{{ SITEURL }}/{{ page.feature_img }}')"{% endif %}>
     <h1 class="title">{{ page.title }}</h1>
     {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
+    {% if page.date %}<p class="meta">{{ page.date.strftime('%B %-d, %Y') }}</p>{% endif %}
   </header>
   <section class="post-content">{{ page.content }}</section>
 </article>
