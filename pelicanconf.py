@@ -7,6 +7,7 @@ PAGE_PATHS = ["pages"]
 STATIC_PATHS = ["extra"]
 EXTRA_PATH_METADATA = {
     "extra/favicon.ico": {"path": "favicon.ico"},
+    "extra/mpc-demo": {"path": "mpc-demo/index.html"},  # move mpc-demo to articles when no longer hosting the app on GCP
 }
 
 TIMEZONE = "UTC"
