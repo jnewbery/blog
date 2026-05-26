@@ -37,9 +37,9 @@ initatives, including:
   bridging the gap between the Bitcoin open source community and enterprises
   using Bitcoin.
 - **BitDevs Socratic Meetups ([NY][] and [London][])**: providing spaces for
-  Bitcoin developers and enthusiasts to meet and discuss Bitcoin development,
+  Bitcoin developers and enthusiasts to meet and discuss Bitcoin development.
 - **[Chaincode Residencies][]**: mentoring and onboarding newer Bitcoin
-  developers
+  developers.
 - **The [Bitcoin Core PR Review Club][]**: helping newer contributors learn
   about the Bitcoin Core review process.
 - **Many [talks and podcast appearances](/talks/)**: sharing knowledge and
