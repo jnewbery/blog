@@ -6,7 +6,7 @@ PORT="${PORT:-8000}"
 URL="http://${HOST}:${PORT}"
 
 # Watch source files and rebuild on changes
-uv run pelican -r content -o output -s pelicanconf.py &
+uv run pelican -d -r content -o output -s pelicanconf.py &
 PELICAN_PID=$!
 trap "kill $PELICAN_PID 2>/dev/null" EXIT
 
