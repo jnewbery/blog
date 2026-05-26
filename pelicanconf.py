@@ -18,7 +18,7 @@ THEME = "themes/john-theme"
 
 # Site-specific settings used in templates
 SITE_TITLE = "John Newbery"
-HEADER_TEXT = "<p>Contributing to Bitcoin Core and other open source projects.</p>"
+HEADER_TEXT = "<p>Energy and Decentralization</p>"
 AVATAR = "theme/img/avatar.jpg"
 FAVICON = "theme/img/favicon.jpg"
 GITHUB_USER = "jnewbery"
