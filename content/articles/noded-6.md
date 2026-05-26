@@ -1,6 +1,6 @@
 Title: Noded 0.6.0 - Contributing to Bitcoin Core
 Date: 2017-12-23
-Category: talk
+Category: talks
 Slug: noded-6
 Summary: A podcast recording with Pierre Rochard and Michael Goldstein.
 

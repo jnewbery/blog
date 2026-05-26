@@ -1,6 +1,6 @@
 Title: What Bitcoin Did - Building a Bitcoin Developer Community
 Date: 2019-08-09
-Category: talk
+Category: talks
 Slug: what-bitcoin-did-building-a-developer-community
 Summary: A chat with Peter McCormack about Bitcoin Development.
 

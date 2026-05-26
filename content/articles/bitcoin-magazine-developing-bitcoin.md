@@ -1,6 +1,6 @@
 Title: Bitcoin Magazine - Developing Bitcoin
 Date: 2020-12-29
-Category: talk
+Category: talks
 Slug: bitcoin-magazine-developing-bitcoin
 Summary: An interview with Christian Keroles about Bitcoin open source development.
 

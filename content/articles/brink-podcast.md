@@ -1,6 +1,6 @@
 Title: The Brink Podcast
 Date: 2021-11-10
-Category: talk
+Category: talks
 Slug: brink-podcast
 Summary: A podcast about Bitcoin protocol development.
 

@@ -1,6 +1,6 @@
 Title: Distributed 2018 - Optech Launch Announcement
 Date: 2018-07-20
-Category: talk
+Category: talks
 Slug: optech-announcement
 Summary: Announcing the launch of Optech at Distributed 2018.
 

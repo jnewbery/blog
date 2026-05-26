@@ -1,6 +1,6 @@
 Title: On The Brink Podcast - Funding Bitcoin Development
 Date: 2020-11-24
-Category: talk
+Category: talks
 Slug: on-the-brink-funding-bitcoin-development
 Summary: A discussion with Nic Carter about Brink and funding open source development.
 

@@ -1,6 +1,6 @@
 Title: World Crypto Network - Onboarding Bitcoin Developers
 Date: 2019-06-09
-Category: talk
+Category: talks
 Slug: world-crypto-network
 Summary: A chat with Max Hillebrand about the Chaincode Residency.
 

@@ -1,6 +1,6 @@
 Title: Noded 0.29.0 - The Inflation Bug
 Date: 2018-10-13
-Category: talk
+Category: talks
 Slug: noded-29
 Summary: A recording with Pierre Rochard and Michael Goldstein.
 

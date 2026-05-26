@@ -1,6 +1,6 @@
 Title: Noded 0.19.0 - Launching Optech
 Date: 2018-08-03
-Category: talk
+Category: talks
 Slug: noded-19
 Summary: James and I recorded another podcast with Pierre Rochard and Michael Goldstein.
 

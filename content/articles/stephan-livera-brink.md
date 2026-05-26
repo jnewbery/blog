@@ -1,6 +1,6 @@
 Title: The Stephan Livera Podcast - Announcing Brink
 Date: 2020-11-24
-Category: talk
+Category: talks
 Slug: stephan-livera-brink
 Summary: A podcast episode with Stephan Livera about establishing Brink.
 

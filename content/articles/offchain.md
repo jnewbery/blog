@@ -1,6 +1,6 @@
 Title: Offchain - Bitcoin Core 0.15
 Date: 2017-09-19
-Category: talk
+Category: talks
 Slug: offchain
 Summary: A chat with Jimmy Song about the new Bitcoin Core 0.15 release.
 

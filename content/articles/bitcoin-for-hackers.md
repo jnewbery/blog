@@ -1,6 +1,6 @@
 Title: Recurse Center - Bitcoin for Hackers
 Date: 2017-11-30
-Category: talk
+Category: talks
 Slug: bitcoin-for-hackers
 Summary: A talk at the Recurse Center in New York titled "Bitcoin for Hackers".
 

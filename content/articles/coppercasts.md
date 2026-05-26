@@ -1,6 +1,6 @@
 Title: CopperCast - Open Source Bitcoin Funding
 Date: 2021-07-22
-Category: talk
+Category: talks
 Slug: coppercasts
 Summary: Appearance on CopperCast discussing Bitcoin open source funding.
 

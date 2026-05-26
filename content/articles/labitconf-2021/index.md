@@ -1,6 +1,6 @@
 Title: LABITCONF 2021 - Future Protocol Changes
 Date: 2021-11-19
-Category: talk
+Category: talks
 Slug: labitconf-2021
 Summary: A talk on future protocol changes and a panel on Bitcoin open source development.
 

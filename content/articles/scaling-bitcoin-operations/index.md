@@ -1,6 +1,6 @@
 Title: Scaling Bitcoin Operations
 Date: 2019-02-15
-Category: talk
+Category: talks
 Slug: scaling-bitcoin-operations
 Summary: A presentation about Scaling Bitcoin operations.
 

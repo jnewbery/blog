@@ -1,6 +1,6 @@
 Title: MIT DCI Security Roundtable - A History of Bitcoin Security
 Date: 2020-12-04
-Category: talk
+Category: talks
 Slug: mit-security-rountable-2020
 Summary: A talk at the MIT DCI Security Roundtable.
 

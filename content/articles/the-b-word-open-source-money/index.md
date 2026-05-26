@@ -1,6 +1,6 @@
 Title: The B Word - Open Source Money
 Date: 2021-07-21
-Category: talk
+Category: talks
 Slug: the-b-word-open-source-money
 Summary: A talk at the ARK Invest/Square Crypto B Word event.
 

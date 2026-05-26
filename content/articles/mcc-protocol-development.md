@@ -1,6 +1,6 @@
 Title: Magical Crypto Conference 2019 - Protocol Development Panel
 Date: 2019-05-12
-Category: talk
+Category: talks
 Slug: mcc-protocol-development
 Summary: A panel discussing Bitcoin Protocol Development with Eric Lombrozo, Matt Corallo and Luke Dashjr.
 

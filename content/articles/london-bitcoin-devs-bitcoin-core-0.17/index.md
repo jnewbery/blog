@@ -1,6 +1,6 @@
 Title: London Bitcoin Devs - Bitcoin Core 0.17
 Date: 2018-08-16
-Category: talk
+Category: talks
 Slug: london-bitcoin-devs-bitcoin-core-0.17
 Summary: A presentation at the London Bitcoin Devs meetup group.
 

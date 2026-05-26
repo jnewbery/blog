@@ -1,6 +1,6 @@
 Title: Crypto News Network - Perspective
 Date: 2018-08-21
-Category: talk
+Category: talks
 Slug: perspective
 Summary: A chat with Vortex about Bitcoin Optech.
 

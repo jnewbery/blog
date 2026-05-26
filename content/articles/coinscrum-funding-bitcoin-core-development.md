@@ -1,6 +1,6 @@
 Title: Coinscrum - Funding Bitcoin Core Development
 Date: 2021-03-04
-Category: talk
+Category: talks
 Slug: coinscrum-funding-bitcoin-core-development
 Summary: A talk with Nicholas Gregory about Bitcoin Core development and Brink.
 

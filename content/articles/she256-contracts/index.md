@@ -1,6 +1,6 @@
 Title: she256 Onboarding to Bitcoin - Contracts
 Date: 2020-04-08
-Category: talk
+Category: talks
 Slug: she256-contracts
 Summary: A presentation for the She256 Onboarding to Bitcoin webinar.
 

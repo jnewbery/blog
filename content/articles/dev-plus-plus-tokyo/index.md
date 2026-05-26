@@ -1,6 +1,6 @@
 Title: Bitcoin Edge Dev++ Tokyo - Digital Signatures and Script
 Date: 2018-10-04
-Category: talk
+Category: talks
 Slug: dev-plus-plus-tokyo
 Summary: Two educational talks at the second iteration of Bitcoin Edge Dev++ at Keio university in Tokyo.
 

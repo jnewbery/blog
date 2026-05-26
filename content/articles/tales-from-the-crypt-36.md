@@ -1,6 +1,6 @@
 Title: Tales From The Crypt #36 - Optech, Taproot and Lightning
 Date: 2018-08-01
-Category: talk
+Category: talks
 Slug: tales-from-the-crypt-36
 Summary: Another podcast recording with Marty Bent about Bitcoin.
 

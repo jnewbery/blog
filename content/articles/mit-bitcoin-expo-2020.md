@@ -1,6 +1,6 @@
 Title: MIT Bitcoin Expo 2020 - Developer Panel
 Date: 2020-03-07
-Category: talk
+Category: talks
 Slug: mit-bitcoin-expo-2020
 Summary: A developer panel at the 2020 MIT Bitcoin Expo with Pieter Wuille, Cory Fields and Amiti Uttarwar.
 

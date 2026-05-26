@@ -1,6 +1,6 @@
 Title: The Chaincode Podcast
 Date: 2020-01-27
-Category: talk
+Category: talks
 Slug: chaincode-podcast
 Summary: A podcast about Bitcoin protocol development featuring interviews with the most influential Bitcoin engineers.
 

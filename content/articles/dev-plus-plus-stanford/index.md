@@ -1,6 +1,6 @@
 Title: Bitcoin Edge Dev++ Stanford - Blocks, Blockchain, P2P, Mempool and HD Wallets
 Date: 2017-11-02
-Category: talk
+Category: talks
 Slug: dev-plus-plus-stanford
 Summary: A series of educational talks at the Bitcoin Edge Dev++ event at Stanford.
 

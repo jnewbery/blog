@@ -1,6 +1,6 @@
 Title: Chaincode Summer Residency 2019
 Date: 2019-06-17
-Category: talk
+Category: talks
 Slug: chaincode-residency
 Summary: Educational talks from the Chaincode Summer Residency 2019.
 

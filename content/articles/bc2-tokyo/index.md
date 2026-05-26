@@ -1,6 +1,6 @@
 Title: BC2 2017 - Tokyo
 Date: 2017-07-31
-Category: talk
+Category: talkss
 Slug: bc2-tokyo
 Summary: A talk at Digital Garage's BC2 workshop on the topic of "Contributing to Bitcoin Core".
 

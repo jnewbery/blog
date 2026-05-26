@@ -1,14 +1,14 @@
 {% extends "base.html" %}
 
-{% block title %}{% if category.slug == 'blog' %}Blog{% elif category.slug == 'talk' %}Talks{% else %}{{ category }}{% endif %} | {{ SITE_TITLE }}{% endblock %}
+{% block title %}{% if category.slug == 'blog' %}Blog{% elif category.slug == 'talks' %}Talks{% else %}{{ category }}{% endif %} | {{ SITE_TITLE }}{% endblock %}
 
 {% block content %}
 <article>
   <header>
-    <h1 class="title">{% if category.slug == 'blog' %}Blog{% elif category.slug == 'talk' %}Talks{% else %}{{ category }}{% endif %}</h1>
+    <h1 class="title">{% if category.slug == 'blog' %}Blog{% elif category.slug == 'talks' %}Talks{% else %}{{ category }}{% endif %}</h1>
     {% if category.slug == 'blog' %}
     <p>Thoughts on Energy, Bitcoin and other things.</p>
-    {% elif category.slug == 'talk' %}
+    {% elif category.slug == 'talks' %}
     <p>A selection of talks, presentations and podcast appearances.</p>
     {% endif %}
   </header>

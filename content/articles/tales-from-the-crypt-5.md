@@ -1,6 +1,6 @@
 Title: Tales From The Crypt #5 - Bitcoin and the Bitcoin Core process
 Date: 2017-12-06
-Category: talk
+Category: talks
 Slug: tales-from-the-crypt-5
 Summary: A podcast recording with Marty Bent about all things Bitcoin Core.
 

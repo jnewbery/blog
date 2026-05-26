@@ -1,6 +1,6 @@
 Title: Lightning Applications Residency
 Date: 2018-10-22
-Category: talk
+Category: talks
 Slug: lightning-residency
 Summary: A residency program for developing Lightning Network applications.
 

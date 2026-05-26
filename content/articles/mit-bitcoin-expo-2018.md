@@ -1,6 +1,6 @@
 Title: MIT Bitcoin Expo 2018 - Scalability Panel
 Date: 2018-03-17
-Category: talk
+Category: talks
 Slug: mit-bitcoin-expo-2018
 Summary: A panel at the 2017 MIT Bitcoin Expo with Cory Fields and Andrew Poelstra.
 

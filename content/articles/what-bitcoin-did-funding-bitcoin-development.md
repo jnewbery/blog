@@ -1,6 +1,6 @@
 Title: What Bitcoin Did - Building a Bitcoin Developer Community
 Date: 2020-12-04
-Category: talk
+Category: talks
 Slug: what-bitcoin-did-funding-bitcoin-development
 Summary: An interview with Peter McCormack about Brink.
 
