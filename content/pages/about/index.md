@@ -2,7 +2,7 @@ Title: About
 Date: 2018-08-22
 Slug: about
 
-<img src="/theme/img/avatar.jpg" class="center-img" style="max-width:300px">
+<img src="{attach}photo.jpg" class="center-img" style="max-width:300px">
 
 Hi. I'm John. I'm a software developer/manager and company founder/director
 with over 12 years experience working on protocol development, peer to peer
