@@ -5,11 +5,13 @@ HOST="${HOST:-127.0.0.1}"
 PORT="${PORT:-8000}"
 URL="http://${HOST}:${PORT}"
 
-if [[ ! -x ".venv/bin/python" ]]; then
-  echo "Expected .venv/bin/python but it was not found or not executable." >&2
-  exit 1
-fi
+# Watch source files and rebuild on changes
+uv run pelican -r content -o output -s pelicanconf.py &
+PELICAN_PID=$!
+trap "kill $PELICAN_PID 2>/dev/null" EXIT
 
-(.venv/bin/python -m webbrowser "${URL}" >/dev/null 2>&1 &) 
+# Open browser after a short delay for the initial build to complete
+(sleep 2 && python3 -m webbrowser "${URL}" >/dev/null 2>&1 &)
 
-pelican -d -r --listen
+# Serve with proper 404 and range request support
+npx serve output --listen "tcp://${HOST}:${PORT}"

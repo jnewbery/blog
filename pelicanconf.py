@@ -4,7 +4,10 @@ SITEURL = ""
 PATH = "content"
 ARTICLE_PATHS = ["articles"]
 PAGE_PATHS = ["pages"]
-STATIC_PATHS = ["attachments"]
+STATIC_PATHS = ["extra"]
+EXTRA_PATH_METADATA = {
+    "extra/favicon.ico": {"path": "favicon.ico"},
+}
 
 TIMEZONE = "UTC"
 DEFAULT_LANG = "en"
