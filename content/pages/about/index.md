@@ -4,14 +4,14 @@ Slug: about
 
 <img src="{attach}photo.jpg" class="center-img" style="max-width:300px">
 
-Hi. I'm John, a self-proclaimed energy nerd. I'm currently studying for a
+Hi. I'm John, a self-styled energy nerd. I'm currently studying for a
 [Masters in Sustainable Energy][] at Imperial College London. My research
 focuses on the optimisation of power-to-heat and thermal energy storage in
 district heating systems, under price and heat demand uncertainty. I'm
 supervised by [Dr. Koen Van Dam][] and carrying out the research with [Green
 Hedge Infra GmbH][].
 
-Prior to going back to school, I was one of the first software engineers
+Before going back to univeristy, I was one of the first software engineers
 at [Axle Energy][], flexing domestic energy assets like EV chargers and home
 batteries to respond to price signals and grid constraints. I built the
 dispatch, market integration, settlement and all the other systems needed to
